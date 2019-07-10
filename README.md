@@ -7,6 +7,4 @@ Wersje programów:
 - Python 3.7.3
 
 
-Pracujemy i commitujemy w branchu, na koniec wykonujemy pull request wykonanej czesci kodu do mastera. Zadaniem Konrada bedzie złaczenie tego w całość (powodzenia Kondziu). 
-
 Miejsce gdzie jest wasze imię i nazwisko jest docelowym miejscem waszego kodu.
